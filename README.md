@@ -79,16 +79,16 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 
 ## Fork this repository
 
-Fork this repository by clicking on the fork button on the top of this page.
+Fork this repository by clicking on the **Fork** button on the top of this page.
 This will create a copy of this repository in your account.
 
 ## Clone the repository
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
+Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the **Code** button, and then click the _copy to clipboard_ icon.
 
-Open a terminal and run the following git command:
+Open a terminal and run the following `git` command:
 
 ```
 git clone "url you just copied"
@@ -108,7 +108,7 @@ where `this-is-you` is your GitHub username. Here you're copying the contents of
 
 ## Create a branch
 
-Change to the repository directory on your computer (if you are not already there):
+Change to the repository directory on your computer (if you're not already there):
 
 ```
 cd first-contributions
@@ -130,7 +130,7 @@ git checkout -b add-alonzo-church
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+Now open `Contributors.md` file in a text editor, and add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
